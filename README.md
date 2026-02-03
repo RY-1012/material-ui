@@ -50,7 +50,7 @@ npm install @mui/material @emotion/react @emotion/styled
 
 ```sh
 yarn add @mui/material @emotion/react @emotion/styled
-```
+
 
 <details>
   <summary>Older versions</summary>
